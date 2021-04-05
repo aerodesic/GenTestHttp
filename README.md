@@ -1,3 +1,3 @@
-# GenTestHttp
+# upshttpd
 
-Http interface for Generator test
+Http interface for UPS controller

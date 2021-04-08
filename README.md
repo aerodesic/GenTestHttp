@@ -1,3 +1,3 @@
-# upshttpd
+# gentesthttpd
 
-Http interface for UPS controller
+Http interface for Generator Test controller
